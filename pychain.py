@@ -197,36 +197,13 @@ if st.button("Add Block"):
 
 
 
-    '''st.write(prev_block)
+    st.write(prev_block)
     st.write(prev_block_hash)
     st.write(print(type(prev_block_hash)))
+    st.balloons()
+   
+    
 
-    # @TODO
-    # Update `new_block` so that `Block` consists of an attribute named `record`
-    # which is set equal to a `Record` that contains the `sender`, `receiver`,
-    # and `amount` values
-    new_block1 = Block(
-        record = input_sender,
-        creator_id= 42,
-        prev_hash = prev_block_hash
-    )
-    new_block2 = Block(
-        record = input_receiver,
-        creator_id= 42,
-        prev_hash = prev_block_hash
-
-    )
-
-    new_block3 = Block(
-        record = input_amount,
-        creator_id=42,
-        prev_hash = prev_block_hash
-    )
-
-    pychain.add_block(new_block1)
-    pychain.add_block(new_block2)
-    pychain.add_block(new_block3)
-    st.balloons()'''
 
 ################################################################################
 # Streamlit Code (continues)
