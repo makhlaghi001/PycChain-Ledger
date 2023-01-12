@@ -64,11 +64,8 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 ## Streamlit ScreenShots
 
-![PyChain Block Validated 2023-01-12 085837](https://user-images.githubusercontent.com/110802707/212127166-94ceb4ea-0910-4a71-bcb5-662a80740ec4.png)
+![PyChain Ledger ST ScreenShot 2023-01-12 122557](https://user-images.githubusercontent.com/110802707/212137551-c97ebc72-2786-4307-bf45-c73985331d8b.png)
 
-![PyChain Ledger 2023-01-12 085947](https://user-images.githubusercontent.com/110802707/212127269-0723c80a-65fe-49a1-8c0b-e5f7e009f42c.png)
-
-![PyChain Ledger Block added 2023-01-12 085603](https://user-images.githubusercontent.com/110802707/212127317-9a7d5a6a-f32d-492d-877f-e070cb242ec3.png)
 
 
 
